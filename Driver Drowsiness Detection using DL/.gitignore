@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+Dataset/*
+!Dataset/README.md
+Images/*
+Web App/*
+!Web App/README.md
+*.csv
+*.npz
+features.json
+smoke_features.json
+*.pt
+*.pth
+*.onnx
